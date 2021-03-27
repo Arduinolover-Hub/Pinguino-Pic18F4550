@@ -1,4 +1,4 @@
-Pinguino 18F4550
+# Pinguino 18F4550
 Pinguino board, based on Pic18F4550, Programing Arduino and Pic
 
 The well know Pinguino based on the Pic 18F4550
